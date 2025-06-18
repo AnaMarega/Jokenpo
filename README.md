@@ -9,6 +9,7 @@ Desenvolvimento de Sistema Eletrônico na Protoboard para Simulação de Oponent
 ## Componentes Utilizados
 | Quantidade  | Componente | Especificação | Valor |
 | ------------- | ------------- | ------------- | ------------- |
+| 1  | ProtoBoard | BB-01 400P S/BASE TOWER++ | R$ 21,70 |
 ## Explicação dos Componentes:
 #### ProtoBoard:
  > A protoboard é uma placa de desenvolvimento com orifícios interconectados internamente que possibilita a montagem temporária de circuitos eletrônicos por meio da inserção direta de componentes como resistores, LEDs e jumpers, dispensando soldagem. Sua estrutura modular permite configurações experimentais rápidas e ajustes imediatos, sendo amplamente utilizada na fase preliminar de projetos eletrônicos por estudantes e entusiastas devido à sua praticidade na validação de conceitos antes da implementação definitiva.
