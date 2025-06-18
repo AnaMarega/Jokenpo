@@ -9,7 +9,8 @@ Desenvolvimento de Sistema Eletrônico na Protoboard para Simulação de Oponent
 ## Componentes Utilizados
 | Quantidade  | Componente | Especificação | Valor |
 | ------------- | ------------- | ------------- | ------------- |
-## Circuito do Projeto
+## Explicação dos Componentes
+## Circuito Arduino
 ## Software 
 ## Imagens do Projeto
 ## Vídeo do Projeto
