@@ -5,7 +5,7 @@ Desenvolvimento de Sistema Eletrônico na Protoboard para Simulação de Oponent
 * Ana Rita Marega Gonçalves - 15746365
 * Luiz Henrique Martins Silva - 15695612
 * Matias Aldrighi Mendonça - 11485044
-* Pedro Henrique Marques de Carvalho Silva - 16819166
+* Pedro Henrique Marques de Carvalho Silva - 16819166  [GitHub](https://github.com/PEDROHMCS)
 ## Componentes Utilizados
 | Quantidade  | Componente | Especificação | Valor |
 | ------------- | ------------- | ------------- | ------------- |
