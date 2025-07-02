@@ -83,8 +83,9 @@ O código completo está disponível no repositório:
 👉 **[Visualizar Código Principal](https://github.com/AnaMarega/Jokenpo/blob/1ec5f4c4a8e2628ed5a450874d0d3e1f98166eb0/C%C3%B3digo%20Jokenp%C3%B4)**
 
 ## Imagens do Projeto
-<img src= "https://github.com/AnaMarega/Jokenpo/blob/78da5a99b0c4ed851bdcf5186d2306ad4e3877db/imagens/foto.jpg" width="700">
-<img src= "https://github.com/AnaMarega/Jokenpo/blob/b0472bce488e5582b46cae3a776fa312d8e5340d/imagens/foto2.jpg"  width="700">
-<img src=  "https://github.com/AnaMarega/Jokenpo/blob/0262347de7dc63844b01f904c9ccbd4af83b0726/imagens/Foto3.jpg" width="700">
+<img src= "https://github.com/AnaMarega/Jokenpo/blob/78da5a99b0c4ed851bdcf5186d2306ad4e3877db/imagens/foto.jpg" width="600">
+<img src= "https://github.com/AnaMarega/Jokenpo/blob/b0472bce488e5582b46cae3a776fa312d8e5340d/imagens/foto2.jpg"  width="600">
+<img src=  "https://github.com/AnaMarega/Jokenpo/blob/0262347de7dc63844b01f904c9ccbd4af83b0726/imagens/Foto3.jpg" width="600">
+
 ## Vídeo do Projeto
 Link para o Vídeo do [Projeto]()
