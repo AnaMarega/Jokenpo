@@ -73,7 +73,7 @@ Feedback Imediato: Resposta visual e sonora instantânea para cada jogada
 ## Circuito Arduino
 <img src= "https://github.com/AnaMarega/Jokenpo/blob/1ec5f4c4a8e2628ed5a450874d0d3e1f98166eb0/imagens/Circu%C3%ADto2.png" width="700">
 
-<img src= "https://github.com/AnaMarega/Jokenpo/blob/78ae7d9c31e5f23d565ac10f4a646e4c8810d329/imagens/Circu%C3%ADto.png" width="500">
+<img src= "https://github.com/AnaMarega/Jokenpo/blob/78ae7d9c31e5f23d565ac10f4a646e4c8810d329/imagens/Circu%C3%ADto.png" width="600">
 
 ## Link Círcuito no Tinkercard:
 
