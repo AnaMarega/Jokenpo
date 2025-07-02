@@ -1,4 +1,4 @@
-```
+
 // LEDs do jogador: pedra (2), papel (3), tesoura (4)
 const int ledsJogador[3] = {2, 3, 4};
 
@@ -278,4 +278,4 @@ void acenderTodosLEDs() {
     digitalWrite(ledsCPU[i], HIGH);
   }
 }
-```
+
