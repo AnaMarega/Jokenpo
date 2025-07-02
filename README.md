@@ -43,7 +43,7 @@ Desenvolvimento de Sistema Eletrônico na Protoboard para Simulação de Oponent
 <img src=
 <img src=
 ## Link Círcuito no Tinkercard:
-https://www.tinkercad.com/things/04uaA1mrBCj/editel?returnTo=%2Fdashboard&sharecode=968SHC6sP_CXqYMkcjzw7VgCyvIV4Mg-XQVd2ycNu24
+Clique para acessar o [Tinkercard](https://www.tinkercad.com/things/04uaA1mrBCj/editel?returnTo=%2Fdashboard&sharecode=968SHC6sP_CXqYMkcjzw7VgCyvIV4Mg-XQVd2ycNu24)
 ## Código do Projeto
 
 ## Imagens do Projeto
