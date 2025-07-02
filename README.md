@@ -80,7 +80,7 @@ Clique para acessar o [Tinkercard](https://www.tinkercad.com/things/04uaA1mrBCj/
 
 ## Código do Projeto
 O código completo está disponível no repositório:
-👉 **[Visualizar Código Principal](https://github.com/AnaMarega/Jokenpo/blob/1ec5f4c4a8e2628ed5a450874d0d3e1f98166eb0/C%C3%B3digo%20Jokenp%C3%B4)**
+👉 **[Visualizar Código Principal](https://github.com/AnaMarega/Jokenpo/blob/0350c3ab3fc9c1b7d81a19205a44c42176b09e12/C%C3%B3digoJokenp%C3%B4.ino)**
 
 #### 📊 **Estatísticas do Código:**
 - **Linguagem:** C++ (Arduino IDE)
