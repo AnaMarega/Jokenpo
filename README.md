@@ -76,17 +76,15 @@ Feedback Imediato: Resposta visual e sonora instantânea para cada jogada
 <img src= "https://github.com/AnaMarega/Jokenpo/blob/78ae7d9c31e5f23d565ac10f4a646e4c8810d329/imagens/Circu%C3%ADto.png" width="700">
 
 ## Link Círcuito no Tinkercard:
-
 Clique para acessar o [Tinkercard](https://www.tinkercad.com/things/04uaA1mrBCj/editel?returnTo=%2Fdashboard&sharecode=968SHC6sP_CXqYMkcjzw7VgCyvIV4Mg-XQVd2ycNu24)
 
 ## Código do Projeto
 O código completo está disponível no repositório:
 👉 **[Visualizar Código Principal](https://github.com/AnaMarega/Jokenpo/blob/1ec5f4c4a8e2628ed5a450874d0d3e1f98166eb0/C%C3%B3digo%20Jokenp%C3%B4)**
 
-
 ## Imagens do Projeto
-<img src= 
-<img src=
-
+<img src= "https://github.com/AnaMarega/Jokenpo/blob/78da5a99b0c4ed851bdcf5186d2306ad4e3877db/imagens/foto.jpg" width="700">
+<img src= "https://github.com/AnaMarega/Jokenpo/blob/78da5a99b0c4ed851bdcf5186d2306ad4e3877db/imagens/foto.jpg"  width="700">
+<img src=  "https://github.com/AnaMarega/Jokenpo/blob/0262347de7dc63844b01f904c9ccbd4af83b0726/imagens/Foto3.jpg" width="700">
 ## Vídeo do Projeto
 Link para o Vídeo do [Projeto]()
