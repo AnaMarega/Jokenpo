@@ -72,9 +72,11 @@ Feedback Imediato: Resposta visual e sonora instantânea para cada jogada
 
 ## Circuito Arduino
 <img src= "https://github.com/AnaMarega/Jokenpo/blob/1ec5f4c4a8e2628ed5a450874d0d3e1f98166eb0/imagens/Circu%C3%ADto2.png">
-<img src=
+<img src= "https://github.com/AnaMarega/Jokenpo/blob/8e2dcc9d80c3b79841b5d352fe75b56a8e8bcde0/imagens/Smashing%20Snaget-Migelo.pdf">
 ## Link Círcuito no Tinkercard:
+
 Clique para acessar o [Tinkercard](https://www.tinkercad.com/things/04uaA1mrBCj/editel?returnTo=%2Fdashboard&sharecode=968SHC6sP_CXqYMkcjzw7VgCyvIV4Mg-XQVd2ycNu24)
+
 ## Código do Projeto
 O código completo está disponível no repositório:
 👉 **[Visualizar Código Principal](https://github.com/AnaMarega/Jokenpo/blob/1ec5f4c4a8e2628ed5a450874d0d3e1f98166eb0/C%C3%B3digo%20Jokenp%C3%B4)**
@@ -83,4 +85,5 @@ O código completo está disponível no repositório:
 ## Imagens do Projeto
 <img src= 
 <img src=
+
 ## Vídeo do Projeto
