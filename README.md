@@ -84,7 +84,7 @@ O código completo está disponível no repositório:
 
 ## Imagens do Projeto
 <img src= "https://github.com/AnaMarega/Jokenpo/blob/78da5a99b0c4ed851bdcf5186d2306ad4e3877db/imagens/foto.jpg" width="700">
-<img src= "https://github.com/AnaMarega/Jokenpo/blob/78da5a99b0c4ed851bdcf5186d2306ad4e3877db/imagens/foto.jpg"  width="700">
+<img src= "https://github.com/AnaMarega/Jokenpo/blob/b0472bce488e5582b46cae3a776fa312d8e5340d/imagens/foto2.jpg"  width="700">
 <img src=  "https://github.com/AnaMarega/Jokenpo/blob/0262347de7dc63844b01f904c9ccbd4af83b0726/imagens/Foto3.jpg" width="700">
 ## Vídeo do Projeto
 Link para o Vídeo do [Projeto]()
