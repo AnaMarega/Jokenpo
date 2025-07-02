@@ -1,4 +1,4 @@
-# Jokenpô :moyai: :page_facing_up: :scissors:
+# Jokenpô :moyai: :page_facing_up: :scissors: 🍄
 ## Descrição:
 Desenvolvimento de Sistema Eletrônico na Protoboard para Simulação de Oponente Automatizado em Jogo Pedra-Papel-Tesoura (Jokenpô)
 ## Participantes:
