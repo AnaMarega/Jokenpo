@@ -1,11 +1,42 @@
-# Jokenpô :moyai: :page_facing_up: :scissors: 🍄
-## Descrição:
-Desenvolvimento de Sistema Eletrônico na Protoboard para Simulação de Oponente Automatizado em Jogo Pedra-Papel-Tesoura (Jokenpô)
+# Jokenpô: Mario Version 🍄
+## Introdução:
+Bem-vindo ao mundo nostálgico dos games clássicos! O Jokenpô: Mario Version é um projeto inovador que combina a simplicidade do tradicional jogo Pedra-Papel-Tesoura com a magia sonora e visual do universo Super Mario Bros. Este sistema eletrônico desenvolvido em protoboard transforma uma brincadeira atemporal em uma experiência interativa única, onde tecnologia e diversão se encontram.
+
 ## Participantes:
 * Ana Rita Marega Gonçalves - 15746365
 * Luiz Henrique Martins Silva - 15695612 [GitHub](https://github.com/LuizUSP)
 * Matias Aldrighi Mendonça - 11485044  [GitHub](https://github.com/Mitch-USP)
 * Pedro Henrique Marques de Carvalho Silva - 16819166  [GitHub](https://github.com/PEDROHMCS)
+  
+## Descrição:
+:moyai: :page_facing_up: :scissors:
+O Jokenpô: Mario Version é um sistema eletrônico inteligente que simula um oponente automatizado no clássico jogo Pedra-Papel-Tesoura, mas com um toque especial do mundo dos videogames. O projeto utiliza uma protoboard como base para criar uma experiência imersiva que desperta nostalgia e diversão.
+Desenvolvimento de Sistema Eletrônico na Protoboard para Simulação de Oponente Automatizado em Jogo Pedra-Papel-Tesoura (Jokenpô)
+## 🎮 Funcionamento do Sistema:
+### Início da Partida:
+O sistema inicia tocando a icônica música tema do Super Mario Bros
+As luzes LED piscam sincronizadas com o ritmo da música, criando um espetáculo visual
+O jogador aguarda o momento certo para fazer sua jogada
+### Sistema de Cores e Movimentos:
+🔴 Vermelho = Pedra (Força bruta do Mario)
+🟡 Amarelo = Papel (Flexibilidade como uma estrela)
+🟢 Verde = Tesoura (Agilidade como o Luigi)
+### Mecânica do Jogo:
+O jogador seleciona sua cor/movimento
+O computador randomiza automaticamente seu movimento
+O sistema processa a comparação entre as jogadas
+O resultado é exibido com efeitos sonoros característicos do Mario
+### 🏆 Regras do Jogo:
+Empate: Cores iguais resultam em empate
+Verde (Tesoura): Vence Amarelo (Papel) | Perde para Vermelho (Pedra)
+Vermelho (Pedra): Vence Verde (Tesoura) | Perde para Amarelo (Papel)
+Amarelo (Papel): Vence Vermelho (Pedra) | Perde para Verde (Tesoura)
+### 🎵 Experiência Audiovisual:
+Trilha Sonora: Música tema original do Super Mario Bros
+Efeitos Sonoros: Sons característicos do Mario para cada resultado
+Sincronização Visual: LEDs piscando no ritmo da música tema
+Feedback Imediato: Resposta visual e sonora instantânea para cada jogada
+
 ## Componentes Utilizados
 | Quantidade | Componente       | Especificação                    | Valor    |
 |------------|------------------|----------------------------------|----------|
@@ -46,5 +77,8 @@ Desenvolvimento de Sistema Eletrônico na Protoboard para Simulação de Oponent
 Clique para acessar o [Tinkercard](https://www.tinkercad.com/things/04uaA1mrBCj/editel?returnTo=%2Fdashboard&sharecode=968SHC6sP_CXqYMkcjzw7VgCyvIV4Mg-XQVd2ycNu24)
 ## Código do Projeto
 
+
 ## Imagens do Projeto
+<img src=
+<img src=
 ## Vídeo do Projeto
