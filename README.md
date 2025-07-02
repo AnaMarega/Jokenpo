@@ -71,7 +71,7 @@ Feedback Imediato: Resposta visual e sonora instantânea para cada jogada
  > Microcontrolador baseado no chip ATmega328P que serve como cérebro programável do projeto. Fornece interfaces digitais/analógicas para leitura de sensores e acionamento de atuadores, com alimentação via USB ou fonte externa (7-12V).
 
 ## Circuito Arduino
-<img src=
+<img src= "https://github.com/AnaMarega/Jokenpo/blob/1ec5f4c4a8e2628ed5a450874d0d3e1f98166eb0/imagens/Circu%C3%ADto2.png">
 <img src=
 ## Link Círcuito no Tinkercard:
 Clique para acessar o [Tinkercard](https://www.tinkercad.com/things/04uaA1mrBCj/editel?returnTo=%2Fdashboard&sharecode=968SHC6sP_CXqYMkcjzw7VgCyvIV4Mg-XQVd2ycNu24)
@@ -81,6 +81,6 @@ O código completo está disponível no repositório:
 
 
 ## Imagens do Projeto
-<img src=
+<img src= 
 <img src=
 ## Vídeo do Projeto
