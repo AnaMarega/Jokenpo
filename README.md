@@ -18,9 +18,9 @@ O sistema inicia tocando a icônica música tema do Super Mario Bros
 As luzes LED piscam sincronizadas com o ritmo da música, criando um espetáculo visual
 O jogador aguarda o momento certo para fazer sua jogada
 ### Sistema de Cores e Movimentos:
-🔴 Vermelho = Pedra (Força bruta do Mario)
-🟡 Amarelo = Papel (Flexibilidade como uma estrela)
-🟢 Verde = Tesoura (Agilidade como o Luigi)
+* 🔴 Vermelho = Pedra (Força bruta do Mario)
+* 🟡 Amarelo = Papel (Flexibilidade como uma estrela)
+* 🟢 Verde = Tesoura (Agilidade como o Luigi)
 ### Mecânica do Jogo:
 O jogador seleciona sua cor/movimento
 O computador randomiza automaticamente seu movimento
@@ -76,6 +76,8 @@ Feedback Imediato: Resposta visual e sonora instantânea para cada jogada
 ## Link Círcuito no Tinkercard:
 Clique para acessar o [Tinkercard](https://www.tinkercad.com/things/04uaA1mrBCj/editel?returnTo=%2Fdashboard&sharecode=968SHC6sP_CXqYMkcjzw7VgCyvIV4Mg-XQVd2ycNu24)
 ## Código do Projeto
+O código completo está disponível no repositório:
+👉 **[Visualizar Código Principal](https://github.com/AnaMarega/Jokenpo/blob/1ec5f4c4a8e2628ed5a450874d0d3e1f98166eb0/C%C3%B3digo%20Jokenp%C3%B4)**
 
 
 ## Imagens do Projeto
