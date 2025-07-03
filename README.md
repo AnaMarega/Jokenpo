@@ -11,7 +11,7 @@ Bem-vindo ao mundo nostálgico dos games clássicos! O Jokenpô: Mario Version �
 ## Descrição:
 :moyai: :page_facing_up: :scissors:
 O Jokenpô: Mario Version é um sistema eletrônico inteligente que simula um oponente automatizado no clássico jogo Pedra-Papel-Tesoura, mas com um toque especial do mundo dos videogames. O projeto utiliza uma protoboard como base para criar uma experiência imersiva que desperta nostalgia e diversão.
-Desenvolvimento de Sistema Eletrônico na Protoboard para Simulação de Oponente Automatizado em Jogo Pedra-Papel-Tesoura (Jokenpô)
+
 ## 🎮 Funcionamento do Sistema:
 ### Início da Partida:
 O sistema inicia tocando a icônica música tema do Super Mario Bros
