@@ -10,12 +10,16 @@ Bem-vindo ao mundo nostálgico dos games clássicos! O Jokenpô: Mario Version �
   
 ## Descrição:
 :moyai: :page_facing_up: :scissors:
-O Jokenpô: Mario Version é um sistema eletrônico inteligente que simula um oponente automatizado no clássico jogo Pedra-Papel-Tesoura, mas com um toque especial do mundo dos videogames. O projeto utiliza uma protoboard como base para criar uma experiência imersiva que desperta nostalgia e diversão.
+O Jokenpô: Mario Version é um sistema eletrônico inteligente que simula um oponente automatizado no clássico jogo Pedra-Papel-Tesoura, mas com um toque especial do mundo dos videogames.
+
+O projeto utiliza uma protoboard como base para criar uma experiência imersiva que desperta nostalgia e diversão.
 
 ## 🎮 Funcionamento do Sistema:
 ### Início da Partida:
 O sistema inicia tocando a icônica música tema do Super Mario Bros
+
 As luzes LED piscam sincronizadas com o ritmo da música, criando um espetáculo visual
+
 O jogador aguarda o momento certo para fazer sua jogada
 ### Sistema de Cores e Movimentos:
 * 🔴 Vermelho = Pedra (Força bruta do Mario)
@@ -23,18 +27,25 @@ O jogador aguarda o momento certo para fazer sua jogada
 * 🟢 Verde = Tesoura (Agilidade como o Luigi)
 ### Mecânica do Jogo:
 O jogador seleciona sua cor/movimento
+
 O computador randomiza automaticamente seu movimento
+
 O sistema processa a comparação entre as jogadas
+
 O resultado é exibido com efeitos sonoros característicos do Mario
+
 ### 🏆 Regras do Jogo:
 Empate: Cores iguais resultam em empate
-Verde (Tesoura): Vence Amarelo (Papel) | Perde para Vermelho (Pedra)
-Vermelho (Pedra): Vence Verde (Tesoura) | Perde para Amarelo (Papel)
-Amarelo (Papel): Vence Vermelho (Pedra) | Perde para Verde (Tesoura)
+* Verde (Tesoura): Vence Amarelo (Papel) | Perde para Vermelho (Pedra)
+* Vermelho (Pedra): Vence Verde (Tesoura) | Perde para Amarelo (Papel)
+* Amarelo (Papel): Vence Vermelho (Pedra) | Perde para Verde (Tesoura)
 ### 🎵 Experiência Audiovisual:
 Trilha Sonora: Música tema original do Super Mario Bros
+
 Efeitos Sonoros: Sons característicos do Mario para cada resultado
-Sincronização Visual: LEDs piscando no ritmo da música tema
+
+Sincronização Visual: LEDs piscando no ritmo da música 
+
 Feedback Imediato: Resposta visual e sonora instantânea para cada jogada
 
 ## Componentes Utilizados
