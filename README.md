@@ -1,6 +1,8 @@
 # Jokenpô: Mario Version 🍄
 ## Introdução:
-Bem-vindo ao mundo nostálgico dos games clássicos! O Jokenpô: Mario Version é um projeto inovador que combina a simplicidade do tradicional jogo Pedra-Papel-Tesoura com a magia sonora e visual do universo Super Mario Bros. Este sistema eletrônico desenvolvido em protoboard transforma uma brincadeira atemporal em uma experiência interativa única, onde tecnologia e diversão se encontram.
+Bem-vindo ao mundo nostálgico dos games clássicos!
+
+O Jokenpô: Mario Version é um projeto inovador que combina a simplicidade do tradicional jogo Pedra-Papel-Tesoura com a magia sonora e visual do universo Super Mario Bros. Este sistema eletrônico desenvolvido em protoboard transforma uma brincadeira atemporal em uma experiência interativa única, onde tecnologia e diversão se encontram.
 
 ## Participantes:
 * Ana Rita Marega Gonçalves - 15746365
@@ -102,4 +104,4 @@ O código completo está disponível no repositório:
 <img src=  "https://github.com/AnaMarega/Jokenpo/blob/0262347de7dc63844b01f904c9ccbd4af83b0726/imagens/Foto3.jpg" width="600">
 
 ## Vídeo do Projeto
-Link para o Vídeo do [Projeto]()
+Link para o Vídeo do [Projeto](https://www.youtube.com/watch?v=tLD_PHcxTdc)
